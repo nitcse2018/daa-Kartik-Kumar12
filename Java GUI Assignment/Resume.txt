@@ -1,0 +1,14 @@
+
+
+
+
+Name:Kartik Kumar
+Phone:7033606753
+Email_Id:kartiksaurya05072001@gmail.com
+Address:Motihati,East Champaran,Bihar
+Date Of Birth:05/07/2001
+Qualification:B.Tech.
+Year of Passing:2018
+Work_link:Web Development
+Programing skill:C , Python , Java 
+Any Info:Good listener, Adaptable,Zel to learn
